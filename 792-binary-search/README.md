@@ -29,6 +29,9 @@
 	<li><code>nums</code> is sorted in ascending order.</li>
 </ul>
 
+<br>
+<hr>
+
 <h2>How to Approach</h2>
 
 - Binary search **only works** on a **sorted array**.
